@@ -149,5 +149,9 @@ npm run dev
 Check this module: [click this](https://orchid-clematis-3e4.notion.site/Panduan-Penggunaan-Git-Untuk-Upload-Assignment-e2d80a19b3684f5d8f1a4209dcf85445?pvs=73)
 
 ---
+Hasil npm run test yang saya lakukan adalah sebagai berikut :
+
+<img width="535" height="183" alt="image" src="https://github.com/user-attachments/assets/45f0b5b0-cc3f-481a-85cb-84b7ec7bc606" />
+
 
 🎉 Congratulations on working on this assignment! Utilize the _playground_ feature in Figma to help you understand how the design should look on various devices. Keep experimenting and don't hesitate to look for references if you encounter difficulties. You can definitely produce great work! 🚀 Keep up the spirit, cheers! 🎈
