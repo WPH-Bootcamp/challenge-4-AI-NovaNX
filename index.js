@@ -22,7 +22,7 @@ function addTodo() {
   console.log(`To-do "${todo.text}" added.`);
 }
 
-//### `markTodoCompleted()`
+//### markTodoCompleted()
 function markTodoCompleted() {
   listTodos();
   if (todos.length === 0) return;
